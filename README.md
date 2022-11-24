@@ -8,4 +8,4 @@ It's for running Java online in a browser-based IDE, GitHub Codespaces.
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://choosealicense.com/licenses/mit/)
